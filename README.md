@@ -108,4 +108,4 @@ For example, enter `R01` to add a Red Widget, and `G01` for a Green Widget.
 ---
 ## GitHub Repository
 
-[Link to the public GitHub repository]()
+[Link to the public GitHub repository](https://github.com/coder-artisan0719/Acme-Widget-Co)
